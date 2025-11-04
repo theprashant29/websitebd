@@ -1,0 +1,53 @@
+[
+  {
+    "label": "Ad · bdseotools.com",
+    "favicon": "https://bdseotools.com/favicon.ico",
+    "title": "BD SEO Tools – 200+ Premium SEO Tools for Marketers",
+    "url": "https://bdseotools.com",
+    "sitename": "BD SEO Tools",
+    "displayUrl": "https://bdseotools.com",
+    "description": "Access Ahrefs, SEMrush, Grammarly, and more – all in one platform. Save 90% on your SEO costs today.",
+    "keywords": "seo, ahrefs, semrush, backlink, serp",
+    "num": 1,
+    "links": [
+      { "text": "All Premium Tools", "url": "https://bdseotools.com/all-tools" },
+      { "text": "Pricing Plans", "url": "https://bdseotools.com/pricing" },
+      { "text": "Refund Policy", "url": "https://bdseotools.com/refund-policy" },
+      { "text": "Terms & Policy", "url": "https://bdseotools.com/terms" }
+    ]
+  },
+  {
+    "label": "Ad · bdseotools.com",
+    "favicon": "https://bdseotools.com/favicon.ico",
+    "title": "Buy SEO Group Tools – Save Money on Premium Accounts",
+    "url": "https://bdseotools.com/group-buy-tools",
+    "sitename": "BD SEO Tools",
+    "displayUrl": "https://bdseotools.com/group-buy-tools",
+    "description": "Join our group buy and get access to top tools like Moz, SpyFu, and BuzzSumo at the lowest price.",
+    "keywords": "group buy, seo tools, moz, spyfu, buzzsumo, cheap",
+    "num": 0,
+    "links": [
+      { "text": "Join Group Buy", "url": "https://bdseotools.com/group-buy-tools" },
+      { "text": "View All Tools", "url": "https://bdseotools.com/all-tools" },
+      { "text": "How It Works", "url": "https://bdseotools.com/how-it-works" },
+      { "text": "Support", "url": "https://bdseotools.com/support" }
+    ]
+  },
+  {
+    "label": "Ad · bdseotools.com",
+    "favicon": "https://bdseotools.com/favicon.ico",
+    "title": "Keyword Research & SERP Analysis Tools",
+    "url": "https://bdseotools.com/keyword-tools",
+    "sitename": "BD SEO Tools",
+    "displayUrl": "https://bdseotools.com/keyword-tools",
+    "description": "Discover profitable keywords using premium keyword tools like KWFinder, SEMrush, and Ahrefs – all in one place.",
+    "keywords": "keyword, research, serp, ranking, php",
+    "num": 0,
+    "links": [
+      { "text": "Keyword Tools", "url": "https://bdseotools.com/keyword-tools" },
+      { "text": "SEO Audit", "url": "https://bdseotools.com/seo-audit" },
+      { "text": "Affiliate Program", "url": "https://bdseotools.com/affiliate" },
+      { "text": "Contact Us", "url": "https://bdseotools.com/contact" }
+    ]
+  }
+]
